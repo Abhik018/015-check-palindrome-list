@@ -3,7 +3,7 @@
 **Notes:**
 * Define a function which will accept list as parameter.
 * Reverse the list and verify if reverse and actual list are matching.
-* If yes then list is palindrome and return true, else false.
+* If yes then list is palindrome and return true, else it will return false.
 
 **Instructions:**
 * Program should be written in file biuld.py
