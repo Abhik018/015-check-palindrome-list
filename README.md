@@ -1,4 +1,4 @@
-# Find out whether a list is a palindrome
+# Palindrome Number Step
 
 **Notes:**
 * Define a function which will accept list as parameter.
@@ -11,9 +11,14 @@
 * Input 
       
        Type: List
-       Value: ['n','i','t','i','n']
+      
+      
+       value:['a','n','n','a']
+       
+       
        
 * Expected Output
 
         Type: List
-        Value: ['n','i','t','i','n']
+        
+          value:['a','n','n','a']
